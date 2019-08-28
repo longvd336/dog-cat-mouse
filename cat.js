@@ -1,4 +1,5 @@
 function Cat() {
+	this.stomatch = [];
 
 }
 
